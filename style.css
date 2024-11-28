@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.527) 2px 0px 10px;
+    
+}
+
+header img{
+    padding: 10px;
+    width: 40px;
+}
+
+header h1{
+    text-align: left;
+    color: green;
+}
+
+header ul li{
+    width: 150px;
+    padding: 5px;
+    display: inline-block;
+    text-align: center;
+}
+
+header ul li:hover{
+    color: green;
+    font-weight: bold;
+}
+
+
