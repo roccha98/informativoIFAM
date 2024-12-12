@@ -1,0 +1,105 @@
+********Sobre
+<h2>SOBRE O IFAM</h2>
+<p> É mais do que um espaço de aprendizado; é um ambiente de troca de saberes, inovação e construção de uma sociedade mais justa e sustentável.</p>
+<p>O IFAM - Campus Humaitá é uma instituição comprometida com a educação de qualidade, oferecendo cursos técnicos e superiores que atendem às demandas da região. Localizado na cidade de Humaitá, no estado do Amazonas, o campus destaca-se pela sua infraestrutura moderna e por um corpo docente qualificado, que busca proporcionar uma formação integral aos seus alunos. Além de promover a educação formal, o Campus Humaitá desenvolve projetos de pesquisa e extensão que visam contribuir para o desenvolvimento local e regional, promovendo a inclusão social e o fortalecimento da comunidade. Com uma abordagem prática e interdisciplinar, os alunos têm a oportunidade de vivenciar experiências reais, preparando-se para os desafios do mercado de trabalho.</p>
+
+********Horarios
+<h2>NOSSOS HORÁRIOS</h2>
+
+<h3>Rotas de Ônibus</h3>
+<p>Manhã: 6:45h - 12:30h (integrado)</p>
+<p>Tarde: 14:00h - 18:00h (integrado)</p>
+<p>Noite: 19:00h - 23:00h (subsequente)</p>
+
+<h3>Atendimento Administrativo</h3>
+<p>Manhã: 8:00h - 12:30h (integrado)</p>
+<p>Tarde: 14:00h - 18:00h (integrado)</p>
+<p>Noite: 19:00h - 23:00h (subsequente)</p>
+
+********Cursos
+<h2>CURSOS OFERTADOS</h2>
+<table>
+        <thead>
+            <tr>
+                <th>Campus</th>
+                <th>Curso</th>
+                <th>Modalidade</th>
+                <th>Formato</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico em Administração</td>
+                <td>Presencial</td>
+                <td>Integrado</td>
+            </tr>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico em Agropecuária</td>
+                <td>Presencial</td>
+                <td>Integrado</td>
+            </tr>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico de Informática</td>
+                <td>Presencial</td>
+                <td>Integrado</td>
+            </tr>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico Administração na modalidade de Educação de Jovens e Adultos - EJA</td>
+                <td>Presencial</td>
+                <td>EJA-Proeja</td>
+            </tr>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico em Administração</td>
+                <td>Presencial</td>
+                <td>Subsequente</td>
+            </tr>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico em Recursos Pesqueiros</td>
+                <td>Presencial</td>
+                <td>Subsequente</td>
+            </tr>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico de Florestas</td>
+                <td>Presencial</td>
+                <td>Subsequente</td>
+            </tr>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico Informática para Internet</td>
+                <td>Presencial</td>
+                <td>Subsequente</td>
+            </tr>
+            <tr>
+                <td>Humaitá</td>
+                <td>Técnico de Manutenção e Suporte em Informática</td>
+                <td>Presencial</td>
+                <td>Subsequente</td>
+            </tr>
+        </tbody>
+    </table>
+
+********Contatos
+<table>
+       <caption>Contatos IFAM Campus Humaitá</caption>
+       <thead>
+       		<tr>
+                    <th>Setor</th>
+                    <th>Telefone</th>   
+                    <th>E-Mail</th>
+                </tr>
+	</thead>
+        <tbody>
+                <tr>
+                    <td>Gabinete</td>
+                    <td></td>
+                    <td><a href="mailto:gabinete.chum@ifam.edu.br">gabinete.chum@ifam.edu.br</a></td>
+                </tr>
+         </tbody>
+</table>
